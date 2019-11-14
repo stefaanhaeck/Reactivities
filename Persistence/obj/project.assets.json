@@ -775,11 +775,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\StefaanHaeck\\source\\repos\\API\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\StefaanHaeck\\Documents\\Reactivities\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\StefaanHaeck\\source\\repos\\API\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\StefaanHaeck\\Documents\\Reactivities\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\StefaanHaeck\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\StefaanHaeck\\source\\repos\\API\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\StefaanHaeck\\Documents\\Reactivities\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\StefaanHaeck\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -795,8 +795,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\StefaanHaeck\\source\\repos\\API\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\StefaanHaeck\\source\\repos\\API\\Domain\\Domain.csproj"
+            "C:\\Users\\StefaanHaeck\\Documents\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\StefaanHaeck\\Documents\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }
