@@ -270,3 +270,5 @@ C:\Users\StefaanHaeck\Documents\Reactivities\api\obj\Debug\netcoreapp3.0\API.Raz
 C:\Users\StefaanHaeck\Documents\Reactivities\api\obj\Debug\netcoreapp3.0\API.csproj.CopyComplete
 C:\Users\StefaanHaeck\Documents\Reactivities\api\obj\Debug\netcoreapp3.0\API.dll
 C:\Users\StefaanHaeck\Documents\Reactivities\api\obj\Debug\netcoreapp3.0\API.pdb
+C:\Users\StefaanHaeck\Documents\Reactivities\API\bin\Debug\netcoreapp3.0\MediatR.dll
+C:\Users\StefaanHaeck\Documents\Reactivities\API\bin\Debug\netcoreapp3.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
